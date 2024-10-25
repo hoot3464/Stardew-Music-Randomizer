@@ -1,0 +1,12 @@
+spring1.ogg
+spring2.ogg
+spring3.ogg
+summer1.ogg
+summer2.ogg
+summer3.ogg
+fall1.ogg
+fall2.ogg
+fall3.ogg
+winter1.ogg
+winter2.ogg
+winter3.ogg

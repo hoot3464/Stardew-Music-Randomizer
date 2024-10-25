@@ -1,0 +1,263 @@
+{
+    "Format": "2.0.2",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "title_night": {
+                    "Id": "title_night",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/league_day.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "wavy": {
+                    "Id": "wavy",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/lost.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "woodsTheme": {
+                    "Id": "woodsTheme",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/xzibit.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Saloon1": {
+                    "Id": "Saloon1",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/stare.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "spring1": {
+                    "Id": "spring1",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/studiopolis.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "spring2": {
+                    "Id": "spring2",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/moonlight.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "spring3": {
+                    "Id": "spring3",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/jubilife_city.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "springtown": {
+                    "Id": "springtown",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/soul_sister.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "summer1": {
+                    "Id": "summer1",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/keep_pressing.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "summer2": {
+                    "Id": "summer2",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/wild_west.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "summer3": {
+                    "Id": "summer3",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/sweet_caroline.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "fall1": {
+                    "Id": "fall1",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/fix_you.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "fall2": {
+                    "Id": "fall2",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/boogie.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "fall3": {
+                    "Id": "fall3",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/fortress.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "winter1": {
+                    "Id": "winter1",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/summit.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "winter2": {
+                    "Id": "winter2",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/arcadia.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "winter3": {
+                    "Id": "winter3",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/fallshore_city.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "MarlonsTheme": {
+                    "Id": "MarlonsTheme",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/soul_sister.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "WizardSong": {
+                    "Id": "WizardSong",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/fireice.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Cavern": {
+                    "Id": "Cavern",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/dear_god.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Cloth": {
+                    "Id": "Cloth",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/puppet_pioneer.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Crystal Bells": {
+                    "Id": "Crystal Bells",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/barcelona_nights.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "FrostMine": {
+                    "Id": "FrostMine",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/vanilla_twilight.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Icicles": {
+                    "Id": "Icicles",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/fallshore_city.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Near The Planet Core": {
+                    "Id": "Near The Planet Core",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/lava.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "Overcast": {
+                    "Id": "Overcast",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/dust.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "tribal": {
+                    "Id": "tribal",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/dust.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                },
+                "XOR": {
+                    "Id": "XOR",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/wild_west.ogg}}"
+                    ],
+                    "Looped": true,
+                    "StreamedVorbis": true
+                }
+            }
+        }
+    ]
+}
