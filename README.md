@@ -7,7 +7,7 @@ There's a few things you need to know before using this program:
 ## Here is what's inside:
 
 - Ensure these files are in the folder:
-  - `new_random.py`
+  - `new_content.py`
   - `songs_list.txt`
   - `music_ids.txt`
   - `template.txt`
