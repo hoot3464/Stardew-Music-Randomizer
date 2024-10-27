@@ -15,6 +15,8 @@ There's a few things you need to know before using this program:
   - A folder called `assets`
   - The `.dist` folder is something VSCode does
 
+- UPDATED: see changelog.txt for details. New python scripts added for more functionality. Make sure to take a look and change file paths in the scripts for your needs.
+
 - This script actually creates a generalized version of the Piano Valley mod, which simply replaces a lot of the music in the game with soft beautiful piano versions of the tunes you normally hear. I'm a huge fan and I'm glad I found out about this mod. Huge shoutouts to the people who made it. You can find out more here: https://www.nexusmods.com/stardewvalley/mods/7103
 
 - **Music IDs**: These are targets for playing certain music at specific seasons, times of day, or locations.
@@ -52,6 +54,6 @@ The JSON data is a single object containing several key-value pairs.
 - **Id**: The music ID target.
 - **Category**: It's all about the music!
 - **FilePaths**: The actual file paths. The format is `["{{AbsoluteFilePath: assets/{something}.ogg}}"]`. **IMPORTANT**: **THIS ENTRY MUST BE FORMATTED THIS WAY OR THE GAME WILL CRASH.** It's because the game will try to find targets from the Content folder inside Stardew Valley rather than the correct target.
-- **Looped**: Default True. Determines if the music loops.  On that note, try to avoid using music files that are too short. If the game suddenly crashes in the middle of the day after a song has ended, it could be too short. So far this is the only bug I've seen. The file I was using was shorter than what normally plays, so that is my best guess to what happened.
-- **StreamedVorbis**: Always set to `True`. Just `.ogg` things.
+- **Looped**: Default True. Determines if the music loops.
+- **StreamedVorbis**: NOTE: in the updated version, all values have been set to FALSE instead of TRUE to hopefully prevent the game from crashing.
 

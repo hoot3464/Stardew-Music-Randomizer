@@ -1,0 +1,8 @@
+- added this changelog
+- added get_songs_list.py to make songs_list.txt if you dont already have one
+- added bulk_random.py to generate 100 custom content.json files if the user wants that
+- added contents folder with 100 content.json files from bulk_random.py
+- updated readme
+- updated template.txt to change all values of StreamedVorbis to False for bug fixing
+- changed new_random.py to new_content.py
+- added random_content.py to replace content.json in Piano Valley folder to a new random one

@@ -12,7 +12,7 @@
                         "{{AbsoluteFilePath: assets/league_day.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "wavy": {
                     "Id": "wavy",
@@ -21,7 +21,7 @@
                         "{{AbsoluteFilePath: assets/lost.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "woodsTheme": {
                     "Id": "woodsTheme",
@@ -30,7 +30,7 @@
                         "{{AbsoluteFilePath: assets/xzibit.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Saloon1": {
                     "Id": "Saloon1",
@@ -39,7 +39,7 @@
                         "{{AbsoluteFilePath: assets/stare.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "spring1": {
                     "Id": "spring1",
@@ -48,7 +48,7 @@
                         "{{AbsoluteFilePath: assets/studiopolis.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "spring2": {
                     "Id": "spring2",
@@ -57,7 +57,7 @@
                         "{{AbsoluteFilePath: assets/moonlight.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "spring3": {
                     "Id": "spring3",
@@ -66,7 +66,7 @@
                         "{{AbsoluteFilePath: assets/jubilife_city.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "springtown": {
                     "Id": "springtown",
@@ -75,7 +75,7 @@
                         "{{AbsoluteFilePath: assets/soul_sister.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "summer1": {
                     "Id": "summer1",
@@ -84,7 +84,7 @@
                         "{{AbsoluteFilePath: assets/keep_pressing.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "summer2": {
                     "Id": "summer2",
@@ -93,7 +93,7 @@
                         "{{AbsoluteFilePath: assets/wild_west.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "summer3": {
                     "Id": "summer3",
@@ -102,7 +102,7 @@
                         "{{AbsoluteFilePath: assets/sweet_caroline.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "fall1": {
                     "Id": "fall1",
@@ -111,7 +111,7 @@
                         "{{AbsoluteFilePath: assets/fix_you.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "fall2": {
                     "Id": "fall2",
@@ -120,7 +120,7 @@
                         "{{AbsoluteFilePath: assets/boogie.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "fall3": {
                     "Id": "fall3",
@@ -129,7 +129,7 @@
                         "{{AbsoluteFilePath: assets/fortress.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "winter1": {
                     "Id": "winter1",
@@ -138,7 +138,7 @@
                         "{{AbsoluteFilePath: assets/summit.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "winter2": {
                     "Id": "winter2",
@@ -147,7 +147,7 @@
                         "{{AbsoluteFilePath: assets/arcadia.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "winter3": {
                     "Id": "winter3",
@@ -156,7 +156,7 @@
                         "{{AbsoluteFilePath: assets/fallshore_city.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "MarlonsTheme": {
                     "Id": "MarlonsTheme",
@@ -165,7 +165,7 @@
                         "{{AbsoluteFilePath: assets/soul_sister.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "WizardSong": {
                     "Id": "WizardSong",
@@ -174,7 +174,7 @@
                         "{{AbsoluteFilePath: assets/fireice.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Cavern": {
                     "Id": "Cavern",
@@ -183,7 +183,7 @@
                         "{{AbsoluteFilePath: assets/dear_god.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Cloth": {
                     "Id": "Cloth",
@@ -192,7 +192,7 @@
                         "{{AbsoluteFilePath: assets/puppet_pioneer.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Crystal Bells": {
                     "Id": "Crystal Bells",
@@ -201,7 +201,7 @@
                         "{{AbsoluteFilePath: assets/barcelona_nights.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "FrostMine": {
                     "Id": "FrostMine",
@@ -210,7 +210,7 @@
                         "{{AbsoluteFilePath: assets/vanilla_twilight.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Icicles": {
                     "Id": "Icicles",
@@ -219,7 +219,7 @@
                         "{{AbsoluteFilePath: assets/fallshore_city.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Near The Planet Core": {
                     "Id": "Near The Planet Core",
@@ -228,7 +228,7 @@
                         "{{AbsoluteFilePath: assets/lava.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "Overcast": {
                     "Id": "Overcast",
@@ -237,7 +237,7 @@
                         "{{AbsoluteFilePath: assets/dust.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "tribal": {
                     "Id": "tribal",
@@ -246,7 +246,7 @@
                         "{{AbsoluteFilePath: assets/dust.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 },
                 "XOR": {
                     "Id": "XOR",
@@ -255,7 +255,7 @@
                         "{{AbsoluteFilePath: assets/wild_west.ogg}}"
                     ],
                     "Looped": true,
-                    "StreamedVorbis": true
+                    "StreamedVorbis": false
                 }
             }
         }
